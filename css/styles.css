@@ -1,0 +1,108 @@
+/* section title */
+#title {
+  background-color: #ffc7c7;
+}
+
+/* title */
+.row-1 {
+  padding-top: 8rem;
+}
+
+.phone-image {
+  transform: rotate(-15deg);
+}
+
+.column-1 {
+  padding-bottom: 4rem;
+}
+
+.column-2 {
+  padding: inherit;
+}
+
+h1 {
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+/* navbar */
+.menu {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+/* features */
+.feat {
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.f {
+  color: #ffc7c7;
+}
+
+.f:hover {
+  color: #8785a2;
+}
+
+/* testimonial */
+.carousel {
+  padding: 5rem;
+  ;
+  text-align: center;
+}
+
+.testimonial-image {
+  border-radius: 50%;
+  height: 70px;
+  width: 70px;
+}
+
+.testimonial-text {
+  font-family: 'Merriweather', serif;
+  color: white;
+  padding: 7% 10%;
+  font-size: 2.5rem;
+  line-height: inherit;
+}
+
+/* press */
+.press-image {
+  margin: 20px;
+  text-align: center;
+  width: 15%;
+  height: auto;
+}
+
+/* pricing */
+#pricing {
+  font-family: 'Merriweather', serif;
+  padding-top: 5rem;
+  text-align: center;
+}
+
+.row-3 {
+  padding: 7% 10%;
+}
+
+/* call to action */
+#cta {
+  padding: 7% 10%;
+  text-align: center;
+}
+
+.cta-text {
+  font-family: 'Merriweather', serif;
+}
+
+/* footer */
+#footer {
+  text-align: center;
+  padding: 4% 15%;
+}
+
+.footer-icon {
+  margin: 20px;
+  color: #ffc7c7;
+}
+
+.footer-icon:hover {
+  color: #8785a2;
+}
